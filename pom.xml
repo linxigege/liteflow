@@ -47,7 +47,7 @@
 
         <lombok.version>1.16.18</lombok.version>
         <dubbo.version>2.6.7</dubbo.version>
-        <bcprov-jdk15on.version>1.59</bcprov-jdk15on.version>
+        <bcprov-jdk15on.version>1.67</bcprov-jdk15on.version>
         <curator.version>4.1.0</curator.version>
         <zookeeper.version>3.4.14</zookeeper.version>
         <zkclient.version>0.11</zkclient.version>
